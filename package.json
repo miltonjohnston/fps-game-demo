@@ -17,6 +17,7 @@
   "dependencies": {
     "@types/ammo.js": "github:osman-turan/ammo.js-typings",
     "ammo.js": "kripken/ammo.js",
+    "firebase": "^11.1.0",
     "three": "^0.127.0",
     "three-pathfinding": "^0.14.1",
     "webpack-cli": "^4.3.1"
