@@ -838,8 +838,7 @@
 
 "@types/ammo.js@github:osman-turan/ammo.js-typings":
   version "1.0.3"
-  resolved "https://codeload.github.com/osman-turan/ammo.js-typings/tar.gz/4270a20c9f992969ffbd3e989aaa0efbe10fd5c4"
-  integrity sha512-cdnG5dDRDifgBrpOAfS4a9y3DAET/tQkMH/AkEyoIdfUpLOGvBTk3ohRADv8LXasNCI14BfbN6scyw5D0oyxnQ==
+  resolved "git+ssh://git@github.com/osman-turan/ammo.js-typings.git#4270a20c9f992969ffbd3e989aaa0efbe10fd5c4"
 
 "@types/anymatch@*":
   version "1.3.1"
@@ -1116,8 +1115,7 @@ ajv@^6.1.0, ajv@^6.12.4, ajv@^6.12.5, ajv@^6.9.1, ajv@>=5.0.0:
 
 ammo.js@kripken/ammo.js:
   version "0.0.2"
-  resolved "https://codeload.github.com/kripken/ammo.js/tar.gz/05a9b87a560c40cfebbcfc9b5ec871278dfb73c0"
-  integrity sha512-8tnv8Noiz7raOM0sKowY2C+i/Z9iw3FVRMPziOQjp+g9LU+0IJjPgh655r3BXsyeo07sYjrGC+SUgd8cspla+Q==
+  resolved "git+ssh://git@github.com/kripken/ammo.js.git#1ed8b58c7058a5f697f2642ceef8ee20fdd55e10"
 
 ansi-colors@^3.0.0:
   version "3.2.4"
